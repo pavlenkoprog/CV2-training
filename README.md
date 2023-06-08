@@ -10,4 +10,11 @@
 ![](clahe.PNG)
 
 Определение движущихся точек и направления их движения на основе Lucas-Kanade
-![](Lucas_kanade.PNG)
+![](Lucas-Kanade.PNG)
+
+Применение каскадных классификаторов Хаара для детекции лица
+(каскад haarcascade_frontalface_default.xml)
+![](CascadeClassifier.PNG)
+
+Нахождение ключевых точек и детекция объекта с алгоритмом SIFT
+![]("object detector SIFT.PNG")
