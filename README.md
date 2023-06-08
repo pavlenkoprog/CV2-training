@@ -17,4 +17,4 @@
 ![](CascadeClassifier.PNG)
 
 Нахождение ключевых точек и детекция объекта с алгоритмом SIFT
-![]("object detector SIFT.PNG")
+![](object_detector_SIFT.PNG)
